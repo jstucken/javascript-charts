@@ -4,3 +4,8 @@ edit_uri: edit/main/docs/  # or edit/main/ if your docs are in the root
 
 theme:
   name: mkdocs
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/chart.js
+  - https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2
+  - population-chart.js
