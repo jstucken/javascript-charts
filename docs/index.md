@@ -21,7 +21,3 @@ if needed.
 
 <canvas id="populationChart" width="800" height="400"></canvas>
 
-This is a test edit made by **StackEdit** WYSIWYG editor.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTEwOTQwNDldfQ==
--->
