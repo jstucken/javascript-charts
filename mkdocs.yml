@@ -1,0 +1,6 @@
+site_name: Example Javascript Charts
+repo_url: https://github.com/jstucken/javascript-charts
+edit_uri: edit/main/docs/  # or edit/main/ if your docs are in the root
+
+theme:
+  name: mkdocs
